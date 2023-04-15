@@ -28,6 +28,7 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance
 ### Estudos recentes
 
 - Aprofundamento no React.js
+- Redux
 - Python
 - Mysql
 - TailwindCss
