@@ -31,9 +31,9 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance
 - Python
 - Mysql
 - TailwindCss
+- TypeScript
 
 ### Pretendo estudar futuramente
-- Typescript
 - Angular
 - MongoDB
 
