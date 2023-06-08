@@ -30,15 +30,12 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance
 
 ### Estudos recentes
 
-- Aprofundamento no React.js
-- Redux
-- Python
-- Mysql
-- TailwindCss
-- TypeScript
+- Aprofundamento em React.js
+- Aprofundamento em Node.js
+- MongoDB
 
 ### Pretendo estudar futuramente
 - Angular
-- MongoDB
+
 
 
