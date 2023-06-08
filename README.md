@@ -36,6 +36,6 @@ Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance
 
 ### Pretendo estudar futuramente
 - Angular
-
+- Vue.js
 
 
