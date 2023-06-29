@@ -26,7 +26,7 @@
     
 </div> <br/>
 
-Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance.
+Sou apaixonado por tecnologia e desenvolvimento de softwares de alta performance
 
 ### Estudos recentes
 
