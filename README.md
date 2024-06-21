@@ -1,7 +1,7 @@
 
 <h1>Olá, Eu sou o Kaio! 👋</h1>
 
-<p align="center">Eu sou apaixonado por desenvolvimento de software ❤ <br><br> Do Frontend utilizando ReactTS e Next.js até o Backend usando Flask e Python, Eu sou <strong>fascinado pelo desenvolvimento de sistemas robustos</strong> e usá-los para resolver os problemas dos clientes. Hoje, Eu sou <strong>desenvolvedor Full-Stack Junior</strong>, mas especializado no desenvolvimento Frontend e focado no desenvolvimento web.</p>&nbsp;
+<p align="center">Eu sou apaixonado por desenvolvimento de software ❤ <br><br> Do Frontend utilizando ReactTS e Next.js até o Backend usando Flask e Python, Eu sou <strong>fascinado pelo desenvolvimento de sistemas robustos</strong> e usá-los para resolver os problemas dos clientes. Hoje, Eu sou <strong>desenvolvedor Full-Stack</strong>, mas especializado no desenvolvimento Frontend e focado no desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kaiobrenner&theme=radical&mode=weekly" />
