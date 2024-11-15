@@ -1,7 +1,10 @@
 
-<h1>Olá, Eu sou o Kaio! 👋</h1>
+<h1>Hi, I am Kaio! 👋</h1>
 
-<p align="center">Eu sou apaixonado por desenvolvimento de software ❤ <br><br> Do Frontend utilizando ReactTS e Next.js até o Backend usando Flask e Python, Eu sou <strong>fascinado pelo desenvolvimento de sistemas robustos</strong> e usá-los para resolver os problemas dos clientes. Hoje, Eu sou <strong>desenvolvedor Full-Stack</strong>, mas especializado no desenvolvimento Frontend e focado no desenvolvimento web.</p>&nbsp;
+<p align="center">
+  I'm a self-taught, passionate Front-End developer ❤<br><br>
+  Fascinated by building robust web applications, I specialize in Front-End development using React.js and Next.js. While my focus is on crafting intuitive user interfaces, I also have experience with Back-End development, enabling me to build comprehensive solutions that solve clients' problems and enhance their web experiences.
+</p>
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -39,7 +42,7 @@
 
 <br><br>
 
-## Contato:
+## Contact:
 
 <div > 
 <a href = "mailto:kaiobrenner460@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
