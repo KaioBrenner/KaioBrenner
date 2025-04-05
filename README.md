@@ -8,8 +8,6 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-<img width=52.5% align="center" src="https://github-readme-stats.vercel.app/api?username=KaioBrenner&show_icons=true&theme=radical" />
-<img width=40% align="center" src="https://github-readme-stats-mu-eight-95.vercel.app/api/top-langs/?username=KaioBrenner&show_icons=true&theme=radical&layout=compact&hide=python" />
  </div>
  
  &nbsp;
